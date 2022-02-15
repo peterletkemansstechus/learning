@@ -22,7 +22,7 @@ class Person {
     }
 
     hello() { /* sample method */
-        return 'hello';
+        return 'hello how are you';
     }
     
     goingInCircles(){ /* function is responsible for too many actions */
