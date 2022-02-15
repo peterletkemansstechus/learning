@@ -1,3 +1,5 @@
+const Message = require('./message');
+
 class client {
     messages = [];
 
