@@ -1,4 +1,3 @@
-const User = require('./user');
 
 class Message {
     /* putting a # in front of a variable or method makes that element private */
@@ -148,5 +147,3 @@ class Message {
 }
 
 
-
-module.exports = Message;
