@@ -7,19 +7,6 @@ class client {
         
     }
 
-    /*
-    message = new Message().MessageBuilder()
-            .setStatus('status1')
-            .setSubject('subject2')
-            .setBody('body3')
-            .setMsgTime('msgTime4')
-            .setReaction('reaction5')
-            .setToUser('toUser6')
-            .setFromUser('fromUser7')
-            .setSent(false)
-            .build();
-            */
-
     addMessage(message){
         /* add message to message array */
     }
