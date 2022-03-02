@@ -1,1 +1,1 @@
-alert('pete hello');
+alert('hello');
