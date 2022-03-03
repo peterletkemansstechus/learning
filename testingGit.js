@@ -1,1 +1,1 @@
-alert('pete');
+alert('get');
